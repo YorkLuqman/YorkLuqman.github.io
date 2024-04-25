@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>Luqman Tarajiya</title>
+
+    <meta name="author" content="Luqman Tarajiya">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="images/favicon/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    
+  </head>
+
+  <body>
+    <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+      <tr style="padding:0px">
+        <td style="padding:0px">
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr style="padding:0px">
+              <td style="padding:2.5%;width:63%;vertical-align:middle">
+                <p class="name" style="text-align: center;">
+                 <p class="name" style="text-align: center;">
+                  Luqman Tarajiya
+                </p>
+                  <p>I'm a first-year student studying ITEC at York University. My favorite hobby is reading.</p>
+                <p>Age: 18</p>
+                <p>Birthplace: Toronto</p>
+                <h2>Projects</h2>
+                <ul>
+                <h2>Projects</h2>
+                <ul>
+                  <li><a href="#">Project 1</a></li>
+                  <li><a href="#">Project 2</a></li>
+                  <li><a href="#">Project 3</a></li>
+                </ul>
+                <h2>Contact</h2>
+                <p>Email: luqman21@my.yorku.ca</p>
+                <p>Phone: 647-915-7358</p>
+                <h2>Courses Completed</h2>
+                <ul>
+                  <li>Intro to IT</li>
+                  <li>Informations and Organizations</li>
+                  <li>Modes of Reasoning</li>
+                  <li>Social Econ</li>
+                  <li>Sets and Logics</li>
+                  <li>Understanding Colour</li>
+                </ul>
+              </td>
+              <td style="padding:2.5%;width:40%;max-width:40%">
+                <<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    </tbody></table>
+  </body>
+</html>
